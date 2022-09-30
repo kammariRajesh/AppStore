@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.btn {
+  padding: 10px;
+  color: #7b8794;
+  background-color: transparent;
+}
+.active-tab {
+  border-top: none;
+  border-bottom: 2px solid #2563eb;
+  border-left: none;
+  border-right: none;
+  color: #1e293b;
+}
+.tab-list-item {
+  margin: 20px;
+}
